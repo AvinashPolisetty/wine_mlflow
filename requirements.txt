@@ -3,7 +3,7 @@ matplotlib
 numpy 
 scikit-learn
 notebook
-mlflow==2.2.2
+mlflow==2.5.0
 python-box==6.0.2
 pyYAML
 tqdm
