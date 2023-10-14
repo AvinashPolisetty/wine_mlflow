@@ -2,7 +2,7 @@
 
 ## Workflows
 
-1. update config.yaml
+1. Update config.yaml
 2. Update schema.yaml
 3. Update params.yaml
 4. Update the entity
