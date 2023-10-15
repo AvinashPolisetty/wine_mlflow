@@ -28,4 +28,4 @@ export MLFLOW_TRACKING_PASSWORD=d7441ad4dd1b8e54aec5de0dc81c53c783cb7d63
 
 
 
-963951113939.dkr.ecr.eu-north-1.amazonaws.com/mlproj-1
+963951113939.dkr.ecr.eu-north-1.amazonaws.com/mlwine-1
